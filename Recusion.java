@@ -70,7 +70,7 @@ public class Recusion {
         // System.out.println(fibonacciNumber(n , dp));
 
         int arr[] = {1,2,3,4,5};
-        System.out.println(isSorted(arr, 0));
+        System.out.println("The array is Sorted: " + isSorted(arr, 0));
     }
     
 }
